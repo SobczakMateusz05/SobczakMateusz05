@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web pages an web applications**
 
-- 🌱 I want to learn **Pyton, C# and ReactNative**
+- 🌱 I want to learn **Python, Laravel and ReactNative**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
