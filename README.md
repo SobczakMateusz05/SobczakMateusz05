@@ -22,5 +22,6 @@
 
 <h3 algin="left">My commercial realizations:</h3>
 - <a href="https://dwexpert.pl/">DW Expert Website</a>
+
 - <a href="https://halaforum.pl">Inactive Hala Forum Webiste</a> -> <a href="https://web.archive.org/web/20241009201214/https:/halaforum.pl/pl"> Web Archive </a>
 
