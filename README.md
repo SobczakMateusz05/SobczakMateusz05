@@ -5,9 +5,9 @@
 
 [- 🔭 I’m currently working on **Web pages an web applications**]: #
 
-- 🌱 I want to learn **ReactNative**
+[- 🌱 I want to learn **ReactNative**]: #
 
-- 👯 I’m looking to collaborate on **Web Projects**
+[- 👯 I’m looking to collaborate on **Web Projects**]: #
 
 - 📫 How to reach me **sobczak.mateusz27@gmail.com**
 
