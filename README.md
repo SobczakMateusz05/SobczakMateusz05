@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">A software developer and system administator from Poland</h3>
+<h3 align="center">A frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sobczakmateusz05&label=Profile%20views&color=0e75b6&style=flat" alt="sobczakmateusz05" /> </p>
 
